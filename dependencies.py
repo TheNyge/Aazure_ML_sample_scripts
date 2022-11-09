@@ -1,0 +1,5 @@
+"numpy==1.18.1"
+"pandas==1.1.5"
+"joblib==0.14.1"
+"scikit-learn==0.24.1"
+"sklearn-pandas==2.1.0"
